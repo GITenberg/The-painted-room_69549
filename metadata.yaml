@@ -1,0 +1,27 @@
+_repo: The-painted-room_69549
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wilson, Margaret
+    birthdate: 1882
+    deathdate: 1973
+    gutenberg_agent_id: '50658'
+    url: http://www.gutenberg.org/2009/agents/50658
+    wikipedia: https://en.wikipedia.org/wiki/Margaret_Wilson_(writer)
+description: ''
+gutenberg_issued: '2022-12-15'
+identifiers:
+  gutenberg: '69549'
+language: en
+pgterms:marc905: 20221128132051wilson
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: 'United States: Harper & Brothers, Publishers,1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The painted room
+url: http://www.gutenberg.org/ebooks/69549
